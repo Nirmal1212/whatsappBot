@@ -1,0 +1,19 @@
+Notes for Android Scrapper App
+
+KeyCodes
+http://thecodeartist.blogspot.in/2011/03/simulating-keyevents-on-android-device.html
+
+
+Save contacts
+http://stackoverflow.com/questions/6392996/adding-a-contact-via-adb-or-monkeyrunner
+http://stackoverflow.com/questions/23488290/android-importing-contacts-through-vcards-via-adb
+
+
+Run adb on app
+http://stackoverflow.com/questions/13381828/is-it-possible-to-execute-adb-commands-through-my-android-app
+http://stackoverflow.com/questions/24482983/how-to-write-adb-commands-inside-a-android-application
+http://stackoverflow.com/questions/28785411/is-it-possible-to-execute-adb-shell-commands-from-app
+
+
+Monkey runner - Try this when free
+http://developer.android.com/tools/help/monkey.html
